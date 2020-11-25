@@ -2,4 +2,4 @@
 
 | parent directory | focus | contributors |
 |--------------|-------|--------------|
-| C++/caseykneale | description | @caseykneale |
+| ./C++/caseykneale | description | @caseykneale |
