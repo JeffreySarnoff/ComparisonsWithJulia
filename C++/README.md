@@ -2,4 +2,4 @@
 
 | subdirectory | focus | contributors |
 |--------------|-------|--------------|
-| caseykneale | description | @caseykneale |
+| C++/caseykneale | description | @caseykneale |
