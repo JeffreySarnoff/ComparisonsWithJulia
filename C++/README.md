@@ -1,4 +1,4 @@
-## Program Source Text Comparisons: Julia and C++
+## Comparing Program Source Text: Julia and C++
 
 | subdirectory | focus | contributors |
 |--------------|-------|--------------|
