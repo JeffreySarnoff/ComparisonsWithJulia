@@ -3,5 +3,12 @@ see https://discourse.julialang.org/t/julia-fn-clearer-than-c-fortran-examples-s
 
 All comparisons are to use the current (preferably) or the prior major version of a language.
 
+## Programming Languages Compared with Julia
+
+These languages are selected for their use in large projects that require high performance
+
+- C++
+- Fortran
+- Java
 
 
