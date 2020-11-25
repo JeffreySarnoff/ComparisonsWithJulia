@@ -2,4 +2,4 @@
 
 | subdirectory | focus | contributors |
 |--------------|-------|--------------|
-| dir name | description | github name |
+| caseykneale | description | @caseykneale |
