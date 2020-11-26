@@ -1,0 +1,19 @@
+Solve C^2 = 2^2 + 5^2, for C.
+Integer inputs: 
+[5.385164807134504, -5.385164807134504]
+Double precision float inputs: 
+[5.385164807134504, -5.385164807134504]
+(C++ variant does not support this)
+Double precision complex float inputs: 
+Complex{Float64}[5.385164807134504 + 0.0im, -5.385164807134504 - 0.0im]
+
+Solve 0 = 2X^2 + 5X - 3, for X.
+Integer inputs: 
+[0.5, -3.0]
+Double precision float inputs: 
+[0.5, -3.0]
+(C++ variant does not support this)
+integer, float, and complex inputs: 
+2-element Array{Complex{Float64},1}:
+  0.5 - 0.0im
+ -3.0 + 0.0im

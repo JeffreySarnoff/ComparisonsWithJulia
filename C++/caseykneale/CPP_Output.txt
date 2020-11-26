@@ -1,0 +1,12 @@
+Solve C^2 = 2^2 + 5^2, for C.
+Integer inputs: 
+[ 5.38516,      -5.38516 ]
+Double precision float inputs: 
+[ 5.38516,      -5.38516 ]
+
+Solve 0 = 2X^2 + 5X - 3, for X.
+Integer inputs: 
+[ 0.5,  -3 ]
+Double precision float inputs: 
+[ 0.5,  -3 ]
+
